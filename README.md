@@ -70,3 +70,21 @@ This repository contains implementations of various AI projects from the CS50 AI
 - **Description:** This project implements an AI that learns to play Nim through reinforcement learning. The AI uses Q-learning to learn the optimal strategy for playing Nim by playing simulated games against itself.
 - **External Resources:**
   - [Project Description](https://cdn.cs50.net/ai/2023/x/projects/4/nim.pdf)
+
+## Project 10: Traffic
+
+- **Files:** `traffic.py`
+- **Description:** This project involves building an AI to identify which traffic sign appears in a photograph. The AI is trained using the German Traffic Sign Recognition Benchmark (GTSRB) dataset, which contains thousands of images of 43 different kinds of road signs.
+- **External Resources:**
+  - [Project Description](https://cdn.cs50.net/ai/2023/x/projects/5/traffic.pdf)
+  - [TensorFlow Keras Overview](https://www.tensorflow.org/guide/keras/sequential_model)
+  - [OpenCV-Python Documentation](https://docs.opencv.org/master/index.html)
+
+## Project 11: Parser
+
+- **Files:** `parser.py`
+- **Description:** This project involves building an AI to parse sentences and extract noun phrases. The AI parses sentences using context-free grammar rules defined in the `NONTERMINALS` global variable and extracts noun phrases from the parsed sentences.
+- **External Resources:**
+  - [Project Description](https://cdn.cs50.net/ai/2023/x/projects/6/parser.pdf)
+  - [NLTK Tree Documentation](https://www.nltk.org/_modules/nltk/tree.html)
+
